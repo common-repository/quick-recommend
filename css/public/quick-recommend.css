@@ -1,0 +1,29 @@
+.quick-recommend-box {
+    clear: both;
+    overflow: auto;
+}
+
+.quick-recommend-box h1,
+.quick-recommend-box h2,
+.quick-recommend-box h3,
+.quick-recommend-box h4,
+.quick-recommend-box h5,
+.quick-recommend-box h6 {
+    clear: none
+}
+
+.qrec-image-holder {
+    float: left;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    max-width: 25%;
+}
+
+.qrec-image-holder img {
+    max-width: 100%;
+}
+
+.quick-recommend-box i > i,
+.quick-recommend-box i > em {
+    font-style: normal;
+}
